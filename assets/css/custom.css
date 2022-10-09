@@ -1,0 +1,67 @@
+#honolulu {
+    background-color: dimgray;
+}
+
+section {
+    margin: 1em;
+}
+
+h1 {
+    margin: 1rem;
+}
+
+#p-start {
+    margin: 1rem;
+    font-size: 2vw;
+}
+
+#p-end {
+    margin: 1rem;
+}
+
+/*
+    Estilos del Formulario
+*/
+
+#p-tit-form {
+    color: rgb(7, 156, 194);
+    font-size: xx-large;
+}
+
+#form-section {
+    background-color: #bdc3c7;
+    padding: 1rem;
+}
+
+#footer {
+    background-color: #272829;
+    color: azure;
+}
+
+#nav-it {
+    color: #096ea1;
+}
+
+#nav-it:hover {
+    color: #8809a1;
+}
+
+.col {
+    padding-top: 2px;
+}
+
+#m2:hover {
+    color: red;
+}
+
+#m2 {
+    color: blue;
+}
+
+#h3-marq {
+    margin: 1rem;
+}
+
+#title-moto {
+    color:  #8809a1 ;
+}
