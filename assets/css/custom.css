@@ -12,11 +12,53 @@ h1 {
 
 #p-start {
     margin: 1rem;
-    font-size: 2vw;
+    font-size: 1.6vw;
+    color: #8809a1;
 }
 
 #p-end {
     margin: 1rem;
+}
+
+
+
+#p-peel {
+    margin: 1rem;
+    font-size: 1.6vw;
+    color: #180440 ;
+}
+
+#btn-peel {
+  color: #ccc ;
+  background-color: #8809a1;
+}
+
+#p-pad {
+  margin: 1rem;
+  color: #ccc ;
+  font-size: 1.9vw;
+}
+
+#btn-pad {
+  color: #ccc ;
+  background-color: #180440;
+  font-size: 2vw;
+}
+
+#title-hial {
+  font-size: 3.8vw;
+}
+
+#p-hial {
+  color: #ccc;
+  margin-right: 1em;
+  font-size: 1.9vw;
+}
+
+#btn-hial {
+  font-size: 2.1vw;
+  color: #ccc ;
+  background-color: #8809a1;
 }
 
 /*
@@ -58,8 +100,9 @@ h1 {
     color: blue;
 }
 
-#h3-marq {
+#h3-peel {
     margin: 1rem;
+    color: black;
 }
 
 #title-moto {
